@@ -1,3 +1,6 @@
+[![Visits Badge](https://badges.strrl.dev/visits/${xTye})](https://badges.strrl.dev)
+
+
 ### About me,
 Software engineer and programmer of 4+ years. Worked as several types of team dynamics as a project manager, front-end, and back-end developer to assemble complete projects under strict deadlines.
 
