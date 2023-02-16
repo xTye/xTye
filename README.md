@@ -3,12 +3,14 @@
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/xTye)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/monthly/xTye)](https://badges.strrl.dev)
 [![Contributions Badge](https://badges.strrl.dev/contributions/yearly/xTye)](https://badges.strrl.dev)
-[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/monthly/xTye)](https://badges.strrl.dev)  
+[![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/monthly/xTye)](https://badges.strrl.dev)
+
+#### Version Control:  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-Frontend Technologies:
+#### Frontend Technologies:  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
@@ -22,7 +24,7 @@ Frontend Technologies:
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 
-Backend Technologies:
+#### Backend Technologies:  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
