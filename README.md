@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.strrl.dev/visits/${xTye})](https://badges.strrl.dev)
+[![Years Badge](https://badges.strrl.dev/years/${xTye})](https://badges.strrl.dev)
 
 
 ### About me,
