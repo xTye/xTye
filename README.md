@@ -10,7 +10,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-## Hey, I'm Tye 🙂,
+## Hey I'm Tye 🙂,
 I'm a software engineer, game developer, and embedded systems engineer. I've worked in different roles as a project manager, game, front-end, and back-end developer to complete projects under strict deadlines.
 
 > • As a project manager I utilized Git, Trello, PowerPoint, and Microsoft Teams to manage and communicate project guidelines and deadlines.  
