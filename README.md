@@ -19,7 +19,7 @@ I'm a software engineer, game developer, and embedded systems engineer. I've wor
 > • As a back-end developer I managed data flow with Express, and Next to communicate with Mongoose and Prisma ORMs in order to receive data from MySQL, MongoDB, Redis, and Firestore databases.  
 
 
-https://user-images.githubusercontent.com/77994279/221094872-487fd4f2-a661-467a-b619-93d529befab3.mp4
+https://user-images.githubusercontent.com/77994279/221210400-d74b287d-a1b8-4be1-b5c9-08486e6325d1.mp4
 
 
 #### Frontend Technologies:  
