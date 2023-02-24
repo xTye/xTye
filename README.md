@@ -18,7 +18,7 @@ I'm a software engineer, game developer, and embedded systems engineer. I've wor
 > • As a front-end developer I worked extensively with React, Vue, Next and Tailwind CSS to extrapolate existing designs based on Figma drafts.  
 > • As a back-end developer I managed data flow with Express, and Next to communicate with Mongoose and Prisma ORMs in order to receive data from MySQL, MongoDB, Redis, and Firestore databases.  
 
-![https://media4.giphy.com/media/N07HLjuHj99OkfEPJV/giphy.gif?cid=ecf05e4780418d089e8821e7c299917d95fe8a246b720373&rid=giphy.gif&ct=g](https://user-images.githubusercontent.com/77994279/200966255-2236b097-08df-474e-ab6c-75c0860e26d5.mp4)
+[![https://media4.giphy.com/media/N07HLjuHj99OkfEPJV/giphy.gif?cid=ecf05e4780418d089e8821e7c299917d95fe8a246b720373&rid=giphy.gif&ct=g]](https://user-images.githubusercontent.com/77994279/200966255-2236b097-08df-474e-ab6c-75c0860e26d5.mp4)
 
 
 #### Frontend Technologies:  
